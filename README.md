@@ -5,7 +5,7 @@
 
 I'm Jon Zeolla, and I ❤️ cloud native security & compliance.
 
-Right now I'm spending *most* of my time building [<img src="img/seiso.png" alt="Seiso" width="8%">](https://sei.so).
+Right now I'm spending *most* of my time building [<img src="img/zenable.png" alt="Zenable" width="8%">](https://zenable.io).
 
 You can find my website [here](https://jonzeolla.com).
 
